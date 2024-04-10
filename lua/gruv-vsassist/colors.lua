@@ -73,7 +73,7 @@ colors.get_colors = function()
         vscPink = "#C586C0",
 
         -- VSAssist specific
-        vsaGold = "#ffd700", -- Yellow, kind of
+        vsaGold = "#ffc710", -- Yellow, kind of
         vsaDarkKhaki = "#bdb76b",
         vsaPurple = "#bd63c5",
         vsaBrown = "#bd63c5",
